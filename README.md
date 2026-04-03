@@ -1,6 +1,8 @@
 # aristia_ps4_ethics-and-algorithmic-bias 
 **Dataset Used:** [Jigsaw Toxic Comment Classification Challenge — Kaggle](https://www.kaggle.com/datasets/julian3833/jigsaw-toxic-comment-classification-challenge?select=train.csv)
 ---
+**Colab Notebook Link:** [COLAB NOTEBOOK](https://colab.research.google.com/drive/1Mv-P-HHcmCNfXr9ZRIOWdRft6dAtMP86?usp=sharing)
+---
 
 ## 📌 About the Project
 
